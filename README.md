@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**TomKortyka/TomKortyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="150"/>
+  <h2 align="center">Hello there, <br /> I'm Tom</h2>
+  <p>I'm a Software engineer, DevOps Enthusiast and Homelaber (Running my own Kubernetes Cluster atm)</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<h3 align="center"> About me </h3>
+
+👩‍💻 Lead-Consultant at CGI.
+
+🤍 Passionate about Frontend, Docker and Kubernetes.
+
+🌱 Currently learning Golang and Jetpack Compose.
